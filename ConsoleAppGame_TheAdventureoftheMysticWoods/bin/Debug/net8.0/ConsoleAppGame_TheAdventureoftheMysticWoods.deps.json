@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppGame_TheAdventureoftheMysticWoods/1.0.0": {
+        "runtime": {
+          "ConsoleAppGame_TheAdventureoftheMysticWoods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppGame_TheAdventureoftheMysticWoods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
